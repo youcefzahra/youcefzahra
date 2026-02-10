@@ -12,10 +12,12 @@ My passion lies in understanding how things work under the hood, from low-level 
 * I have a strong interest in the Asian Tech ecosystem, strengthened by my semester at the **Beijing Institute of Technology** (China).
 
 ### 🛠️ Tech Stack
+
 * **Languages:** Python (Advanced), C, C++, Shell.
 * **AI/ML:** PyTorch, Hugging Face Transformers, Reinforcement Learning.
 * **Tools:** Git, Linux, Docker.
 
 ### 📫 How to reach me
-* **LinkedIn:** [Ton Lien LinkedIn]
+
+* **LinkedIn:** www.linkedin.com/in/youcef-zahra
 * **Email:** youcef.zahra@epita.fr
