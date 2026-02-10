@@ -2,22 +2,20 @@
 
 I'm a Computer Science Engineering Student at **EPITA** (Class of 2028) and a Student Researcher at the **LRDE**.
 
-My passion lies in understanding how things work under the hood, from low-level system programming to abstract AI reasoning.
+I enjoy solving complex problems and I am always eager to learn new technologies and frameworks.
 
 ### 🔭 What I'm currently working on
-* **Deep RL for Theorem Proving:** Research project at **LRDE** adapting AlphaGo-like strategies (MCTS + Neural Networks) to solve logic problems.
-* **System Programming:** Building robust tools in **C/C++** and exploring the **Unix/Linux** kernel.
+* **Research at LRDE:** Implementing and optimizing Deep RL algorithms to guide Automated Theorem Proving.
+* **At EPITA:** System Programming in **C**.
 
-### 🌍 Global Tech
-* I have a strong interest in the Asian Tech ecosystem, strengthened by my semester at the **Beijing Institute of Technology** (China).
+### 🌍 International
+* Semester abroad at **Beijing Institute of Technology** (China).
 
 ### 🛠️ Tech Stack
-
-* **Languages:** Python (Advanced), C, C++, Shell.
-* **AI/ML:** PyTorch, Hugging Face Transformers, Reinforcement Learning.
-* **Tools:** Git, Linux, Docker.
+* **Languages:** C, C++, Python, OCaml, Java, x86-64 Assembly, SQL, Shell.
+* **AI/ML:** PyTorch, Reinforcement Learning, Hugging Face.
+* **Tools:** Git, Linux, LaTeX.
 
 ### 📫 How to reach me
-
-* **LinkedIn:** www.linkedin.com/in/youcef-zahra
+* **LinkedIn:** [Youcef Zahra](https://www.linkedin.com/in/youcef-zahra)
 * **Email:** youcef.zahra@epita.fr
