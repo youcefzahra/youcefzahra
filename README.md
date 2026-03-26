@@ -4,7 +4,7 @@
 
 <p><strong>20 y.o. French Systems Engineer & AI Researcher</strong></p>
 
-<p><em>3rd-year Engineering Student @ <a href="https://github.com/epita">EPITA</a> (Class of 2028) & Student Researcher @ LRDE</em></p>
+<p><em>3rd-year Engineering Student @<a href="https://github.com/epita">EPITA</a> (Class of 2028) & Student Researcher @LRDE</em></p>
 
 <br>
 
