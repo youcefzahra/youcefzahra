@@ -46,6 +46,7 @@
 | 🌐 **[HTTPd](https://github.com/youcefzahra/HTTPd)** | C, Sockets | HTTP/1.1 server with **process daemonization** and GET/HEAD request handling. |
 | 👁️ **[OCR Solver](https://github.com/youcefzahra/OCR-Word-Search)** | C, GTK | CNN model **implemented without external libraries** for crossword grid extraction. |
 | 🎮 **[The Great Escape](https://github.com/youcefzahra/La-Grande-Evasion-3D-Game)** | Unity, C# | 3D multiplayer game with **Photon synchronization** and AI field-of-view logic. |
+| 🐲 **[Yakamon](https://github.com/youcefzahra/Yakamon)** | Java, Quarkus | RESTful API with **N-Tier architecture**, Hibernate ORM, and server-side anti-cheat. |
 
 ---
 
