@@ -30,9 +30,9 @@
 
 ### 🔬 Research & Experience
 
-* **Student Researcher @ LRDE**: Development of a **Deep Reinforcement Learning** agent for the **PyRes** theorem prover to automate axiom selection. Performance evaluation on **TPTP benchmarks** to optimize automated proof resolution.
+* **Student Researcher @LRDE**: Development of a **Deep Reinforcement Learning** agent for the **PyRes** theorem prover to automate axiom selection. Performance evaluation on **TPTP benchmarks** to optimize automated proof resolution.
 
-* **Academic Exchange @ Beijing Institute of Technology**: Intensive semester in Beijing focusing on Machine Learning, Computer Graphics, Compilers, and Database Principles.
+* **Academic Exchange @Beijing Institute of Technology**: Intensive semester in Beijing focusing on Machine Learning, Computer Graphics, Compilers, and Database Principles.
 
 ---
 
